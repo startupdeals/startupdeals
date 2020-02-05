@@ -74,7 +74,6 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Carbon Ads](https://www.producthunt.com/founder-club) | $750.00 off your first campaign over $5000 | $720/year for all Product Hunt deals |
 | [Carta](https://brex.com/rewards/) | 20% discount on first year subscription and waived implementation fees | Free for Brex customers |
 | [Carta](https://segment.com/industry/startups/) | "Carta Launch -- Free captable subscription plan, available to companies* through their law firm (*company must have fewer than 10 stakeholders & have raised less than $250k)
-Carta Paid Subscription Plans -- Receive a 20% first year discount and waived implementation fees" | Free for approved Segment users |
 | [Carta](https://www.startups.com/products/benefits-browse#benefits) | 20% Off Cap Table Management | $29/month to access all Startups.com offers and products. Yearly and life-time plans available |
 | [Carta](https://stripe.com/en-de/corporate-card) | Access to Launch, and 20% off + waived implementation fees | Free for Stripe Corporate Credit card users |
 | [Caviar](https://brex.com/rewards/) | $35 off of 3 orders of $75 or more | Free for Brex customers |
