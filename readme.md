@@ -250,6 +250,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [noCRM](https://www.joinsecret.com/offers) | €250 credit | First deal free, then 99€/year or invite friends |
 | [Notion](https://www.producthunt.com/founder-club) | $1000 credit | $720/year for all Product Hunt deals |
 | [Notion](https://stripe.com/en-de/corporate-card) | 50% cash back up to $5,000 | Free for Stripe Corporate Credit card users |
+| [Neon Financial](https://www.neonforlife.com/?referral_code=githubstartupdeals) | $1000 credit line at 0% APR to pay essential bills - rent, utilities, parking. Additional $10 off first month's bills | Free |
 | [Octonius - Cloud Collaboration](https://startup.deals/) | 30% off on yearly contracts | $29 one-time to access all Startup Deals discounts |
 | [Oiga](https://startup.deals/) | 30% off for 6 months | $29 one-time to access all Startup Deals discounts |
 | [Olark](https://startup.deals/) | 4 months free | $29 one-time to access all Startup Deals discounts |
