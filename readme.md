@@ -220,6 +220,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Lester Lee](https://segment.com/industry/startups/) | Free go-to-market consultation / advice on hiring early salespeople | Free for approved Segment users |
 | [Libeo](https://www.joinsecret.com/offers) | 50% off for 6 months on any plan | First deal free, then 99€/year or invite friends |
 | [LiveChat](https://startup.deals/) | Get 50% off first payment of any LiveChat plan | $29 one-time to access all Startup Deals discounts |
+| [Localazy](https://localazy.com) | $250 credit | On all coupon-enabled marketplace power-ups |
 | [Logojoy](https://startup.deals/) | Lifetime 20% off logos | $29 one-time to access all Startup Deals discounts |
 | [Looker](https://segment.com/industry/startups/) | 60% off list price | Free for approved Segment users |
 | [LOT Network](https://startup.deals/) | Free for startups with $5M in revenue or less | $29 one-time to access all Startup Deals discounts |
