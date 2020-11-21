@@ -127,6 +127,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Expensify](https://brex.com/rewards/) | 50% discount for 6 months | Free for Brex customers |
 | [Expensify](https://stripe.com/en-de/corporate-card) | 50% off for 6 months | Free for Stripe Corporate Credit card users |
 | [Experian](https://brex.com/rewards/) | 50% discount on first year business credit monitoring subscription | Free for Brex customers |
+| [FeedBear](https://www.feedbear.com/early-stage/) | 50% off the first 12 months | For startups younger than 2 years with less than 5 employees |
 | [Feedify](https://startup.deals/) | 3 months free + 30% off Lifetime | $29 one-time to access all Startup Deals discounts |
 | [findmassleads](https://www.joinsecret.com/offers) | 50% off on the annual Pro plan | First deal free, then 99€/year or invite friends |
 | [Finimize](https://www.producthunt.com/founder-club) | 40% off annual subscription | $720/year for all Product Hunt deals |
