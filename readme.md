@@ -108,6 +108,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Dareboost](https://www.joinsecret.com/offers) | 6 months free on Business plan | First deal free, then 99€/year or invite friends |
 | [Datananas](https://www.joinsecret.com/offers) | 50% for 6 months on Pro plan | First deal free, then 99€/year or invite friends |
 | [Demand Curve](https://startup.deals/) | $1,000 off our growth training | $29 one-time to access all Startup Deals discounts |
+| [DeepSource](https://www.producthunt.com/founder-club/benefits) | $300 credit in DeepSource account | for all Product Hunt deals 
 | [Designity](https://startup.deals/) | 20% off on your first design project | $29 one-time to access all Startup Deals discounts |
 | [DesignModo](https://startup.deals/) | 25% off | $29 one-time to access all Startup Deals discounts |
 | [DesignPickle](https://startup.deals/) | 20% off first month | $29 one-time to access all Startup Deals discounts |
