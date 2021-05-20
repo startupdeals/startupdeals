@@ -370,6 +370,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Swoogo](https://startup.deals/) | Free Reporting User with Subscription | $29 one-time to access all Startup Deals discounts |
 | [Teamleader](https://startup.deals/) | 6 months Free - EU only | $29 one-time to access all Startup Deals discounts |
 | [TeamRio](https://startup.deals/) | 10% off of your first project on your web & mobile app development. | $29 one-time to access all Startup Deals discounts |
+| [Tenstars](https://tenstars.co) | 25% off the first year | For startup plan, write us mentioning Startup Deals discount |
 | [TermsFeed](https://startup.deals/) | 50% off | $29 one-time to access all Startup Deals discounts |
 | [The Information](https://www.producthunt.com/founder-club) | $150 off | $720/year for all Product Hunt deals |
 | [Themecloud](https://www.joinsecret.com/offers) | 6 months free on Pro1 plan | First deal free, then 99€/year or invite friends |
