@@ -319,6 +319,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Segment](https://segment.com/industry/startups/) | $25,000 in Segment credits | Free |
 | [Segment](https://startup.deals/) | The first 10K MTUs completely free on the Monthly Team Plan for 3 months. | $29 one-time to access all Startup Deals discounts |
 | [Sellsy](https://www.joinsecret.com/offers) | 3 months free | First deal free, then 99€/year or invite friends |
+| [SerpApi](https://www.joinsecret.com/offers) | 50% off for 12 months | $39 billed annually to access all Basic deals |
 | [SendGrid](https://brex.com/rewards/) | $130/month off of new Pro 100K Plan | Free for Brex customers |
 | [Sendgrid](https://www.joinsecret.com/offers) | 12 months free (100k emails/month with the Email API Plan) | First deal free, then 99€/year or invite friends |
 | [SendGrid](https://www.startups.com/products/benefits-browse#benefits) | 12 Months of Product Credit | $29/month to access all Startups.com offers and products. Yearly and life-time plans available |
