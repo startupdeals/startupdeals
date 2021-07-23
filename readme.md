@@ -152,6 +152,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Gem](https://stripe.com/en-de/corporate-card) | 3 months free | Free for Stripe Corporate Credit card users |
 | [GenM](https://startup.deals/) | Free Marketing | $29 one-time to access all Startup Deals discounts |
 | [GetResponse](https://startup.deals/) | 50% off 2 months | $29 one-time to access all Startup Deals discounts |
+| [GitGuardian](https://www.gitguardian.com/pricing) | Alltime Free | Open Source projects and teams < 25 |
 | [GoCardLess](https://www.joinsecret.com/offers) | 50% off Plus Plan monthly fees for 12 months | First deal free, then 99€/year or invite friends |
 | [GoDaddy Websites + Marketing](https://www.amazon.com/b?node=19409896011&ref_=ab_bps_moo_acq_learn) | 12 months for FREE | From $499/year with Amazon Business Prime |
 | [GOOGLE ADS](https://brex.com/rewards/) | Up to $150 in Google Ads credit. | Free for Brex customers |
