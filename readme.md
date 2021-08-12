@@ -107,6 +107,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [D2C.io](https://startup.deals/) | Get 50% off first payment of any D2C plan. | $29 one-time to access all Startup Deals discounts |
 | [Dareboost](https://www.joinsecret.com/offers) | 6 months free on Business plan | First deal free, then 99€/year or invite friends |
 | [Datananas](https://www.joinsecret.com/offers) | 50% for 6 months on Pro plan | First deal free, then 99€/year or invite friends |
+| [DeepSource Startup Program](https://deepsource.io/startup-program/) | $2,000 in DeepSource credits and $100K+ in free software to help you build | Program is open only for early-stage startups |
 | [Demand Curve](https://startup.deals/) | $1,000 off our growth training | $29 one-time to access all Startup Deals discounts |
 | [Designity](https://startup.deals/) | 20% off on your first design project | $29 one-time to access all Startup Deals discounts |
 | [DesignModo](https://startup.deals/) | 25% off | $29 one-time to access all Startup Deals discounts |
