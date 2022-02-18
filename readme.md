@@ -232,6 +232,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Marvel](https://startup.deals/) | 60 day free trial | $29 one-time to access all Startup Deals discounts |
 | [Meet Hugo](https://startup.deals/) | 14 Day Free Trial | $29 one-time to access all Startup Deals discounts |
 | [Mention](https://www.joinsecret.com/offers) | 6 months free on Solo plan | First deal free, then 99€/year or invite friends |
+| [Mergify](https://mergify.com/startup) | $21,000 credits for 12 months | Only available to startups |
 | [missinglettr](https://startup.deals/) | $40 off | $29 one-time to access all Startup Deals discounts |
 | [Mixmax](https://www.producthunt.com/founder-club) | 30% off annual plans | $720/year for all Product Hunt deals |
 | [Mixpanel](https://segment.com/industry/startups/) | 250,000 monthly tracked users (MTUs) for FREE at the online Growth Plan Tier + all packages available online. ($60,000 in annual value) | Free for approved Segment users |
