@@ -50,6 +50,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Bench](https://startup.deals/) | 6 months for 1 | $29 one-time to access all Startup Deals discounts |
 | [Bench](https://www.startups.com/products/benefits-browse#benefits) | 20% off of first 6 months | $29/month to access all Startups.com offers and products. Yearly and life-time plans available |
 | [Bench](https://bench.co/integrations/stripe/) | 20% off your first 6 months of bookkeeping with Bench | Free for Stripe users |
+| [Betasort](https://www.betasort.com) | 50% off yearly plan | Use code *startupdeals* on checkout |
 | [BETTERNOTSTOP](https://startup.deals/) | 20% Off | $29 one-time to access all Startup Deals discounts |
 | [bidPress](https://startup.deals/) | $25 off first order | $29 one-time to access all Startup Deals discounts |
 | [BladeWP](https://startup.deals/) | 3 Months Free | $29 one-time to access all Startup Deals discounts |
