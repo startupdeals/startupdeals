@@ -119,6 +119,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Drift](https://segment.com/industry/startups/) | Get the Drift Pro plan, bots and all, and 10 user seats for 93% off | Free for approved Segment users |
 | [Drift Sales Chat](https://startup.deals/) | 30% off the Drift Standard Plan for life. | $29 one-time to access all Startup Deals discounts |
 | [Drip](https://startup.deals/) | 42 Day Trial of Drip! | $29 one-time to access all Startup Deals discounts |
+| [DronaHQ](https://www.dronahq.com/startup-program/) | offering free credits to startups | credit worth $1200 - use code 'GITHUB22' |
 | [E-Goi](https://www.joinsecret.com/offers) | 6 months free on Starter plan (5000 contacts max) | First deal free, then 99€/year or invite friends |
 | [Elevio](https://startup.deals/) | 50% off any plan | $29 one-time to access all Startup Deals discounts |
 | [Email Hunter](https://startup.deals/) | 30% off 3 Months | $29 one-time to access all Startup Deals discounts |
