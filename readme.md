@@ -331,6 +331,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Shippo](https://brex.com/rewards/) | 4 months free Shippo Pro Plan | Free for Brex customers |
 | [Shopify](https://stripe.com/en-de/corporate-card) | 3 months free Basic Shopify subscription | Free for Stripe Corporate Credit card users |
 | [Shopify](https://www.userlike.com/en/blog/startup-deals) | Extended 30-day free trial | Free |
+| [SimpleLocalize](https://simplelocalize.io/startups/) | 12 months free on Team plan | Free |
 | [Sketch](https://www.producthunt.com/founder-club) | 30% off | $720/year for all Product Hunt deals |
 | [Skillshare](https://startup.deals/) | 3 months free | $29 one-time to access all Startup Deals discounts |
 | [Slab](https://www.producthunt.com/founder-club) | 50% off for 12 months | $720/year for all Product Hunt deals |
