@@ -246,6 +246,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Mothernode CRM](https://startup.deals/) | 5,000 Emails /month |Unlimited Contacts | Only $59/month WOW! | $29 one-time to access all Startup Deals discounts |
 | [MyAlbum Business](https://startup.deals/) | 3 months business for free | $29 one-time to access all Startup Deals discounts |
 | [newCo](https://startup.deals/) | Lifetime Access for $49 | $29 one-time to access all Startup Deals discounts |
+| [Nimblebox.ai](https://nimblebox.ai/startup-program) | Free access for 1 year and up to $10,000 off in usage fees| $5/mo one-time to access all Startup Deals discounts |
 | [Ninja Outreach](https://www.userlike.com/en/blog/startup-deals) | 20% discount on Blogger plan for lifetime | Free |
 | [noCRM](https://www.joinsecret.com/offers) | €250 credit | First deal free, then 99€/year or invite friends |
 | [Notion](https://www.producthunt.com/founder-club) | $1000 credit | $720/year for all Product Hunt deals |
