@@ -113,6 +113,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [DesignPickle](https://startup.deals/) | 20% off first month | $29 one-time to access all Startup Deals discounts |
 | [DEZYNSPACE](https://startup.deals/) | 50% OFF on 10hrs design time + FREE UNLIMITED revision time | $29 one-time to access all Startup Deals discounts |
 | [DigitalOcean](https://stripe.com/en-de/corporate-card) | 5% cash back up to $500 per month | Free for Stripe Corporate Credit card users |
+| [DHTMLX](https://dhtmlx.com/docs/startups/) | 70% off for 1 year | 70% discount on DHTMLX licences |
 | [Docsend](https://brex.com/rewards/) | 3 months free DocSend Advanced | Free for Brex customers |
 | [Dr. Cameron Sepah](https://segment.com/industry/startups/) | "Cameron charges a discounted monthly subscription with pricing as a sliding scale per stage. |
 | [Draftium](https://startup.deals/) | 50% OFF for Draftium PRO annual subscription | $29 one-time to access all Startup Deals discounts |
