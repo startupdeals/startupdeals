@@ -80,6 +80,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Chargebee](https://startup.deals/) | First $50k free | $29 one-time to access all Startup Deals discounts |
 | [Chargebee](https://www.startups.com/products/benefits-browse#benefits) | Free for up to 2 Years | $29/month to access all Startups.com offers and products. Yearly and life-time plans available |
 | [Chartio](https://segment.com/industry/startups/) | 75% off the Startup and Growth plans for 1 year | Free for approved Segment users |
+| [Chase](https://accounts.chase.com/business/share/2330064076) | $300 when you open an eligible Chase business checking account and complete qualifying activities |
 | [Clear Channel Outdoor](https://brex.com/rewards/) | 10%+ discount on first advertising campaign | Free for Brex customers |
 | [ClearBrain](https://segment.com/industry/startups/) | 100,000 Monthly Tracked Users (MTUs) for Free, along with all the features included in the Growth plan, 10 custom goals, 10 audiences, and 12 month data history | Free for approved Segment users |
 | [Clerky](https://segment.com/industry/startups/) | "We've put together a special deal just for Segment Startup Program companies – our Company Lifetime Package for only $699. |
@@ -154,6 +155,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [GetResponse](https://startup.deals/) | 50% off 2 months | $29 one-time to access all Startup Deals discounts |
 | [GoCardLess](https://www.joinsecret.com/offers) | 50% off Plus Plan monthly fees for 12 months | First deal free, then 99€/year or invite friends |
 | [GoDaddy Websites + Marketing](https://www.amazon.com/b?node=19409896011&ref_=ab_bps_moo_acq_learn) | 12 months for FREE | From $499/year with Amazon Business Prime |
+| [GoHighLevel](https://www.gohighlevel.com/?fp_ref=start-up-discount) | 14 day free trial + 10% back after first year on paid plan |
 | [GOOGLE ADS](https://brex.com/rewards/) | Up to $150 in Google Ads credit. | Free for Brex customers |
 | [Google Ads](https://stripe.com/en-de/corporate-card) | $150 in credit | Free for Stripe Corporate Credit card users |
 | [Google BigQuery](https://segment.com/industry/startups/) | Once approved, you will receive an initial $20K in credits, good for 12 months. Once you consume 75% of those credits, another $80K will be deposited in your account (expiring within the same 12 months), for $100K total. | Free for approved Segment users |
@@ -167,6 +169,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Guideline 401(k)](https://brex.com/rewards/) | 3 months free | Free for Brex customers |
 | [Gusto](https://www.producthunt.com/founder-club) | 3 months free | $720/year for all Product Hunt deals |
 | [Gusto](https://stripe.com/en-de/corporate-card) | 3 months free | Free for Stripe Corporate Credit card users |
+| [Gusto](https://gusto.com/r/collinac3f05cb) | $100 Visa gift card or $200 if you have 10 employees or more |
 | [Harvestr](https://www.joinsecret.com/offers) | 6 months free on Starter plan | First deal free, then 99€/year or invite friends |
 | [HeadReach](https://startup.deals/) | 20% off lifetime for all plans | $29 one-time to access all Startup Deals discounts |
 | [HelloFresh](https://startup.deals/) | 50% off first order | $29 one-time to access all Startup Deals discounts |
@@ -291,7 +294,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Pusher Chatkit](https://www.producthunt.com/founder-club) | 6 months of Business plan free | $720/year for all Product Hunt deals |
 | [Qonto](https://www.joinsecret.com/offers) | 7 months free on Standard plan | First deal free, then 99€/year or invite friends |
 | [Quartzy](https://brex.com/rewards/) | Up to $10,000 in Quartzy credits | Free for Brex customers |
-| [Quickbooks](https://www.joinsecret.com/offers) | 50% discount for 6 months on any subscription plan | First deal free, then 99€/year or invite friends |
+| [Quickbooks]([https://refer.quickbooks.ca/s/collin]) | 75% discount for 6 months on any subscription plan | Free
 | [QuickBooks Online Plus](https://www.amazon.com/b?node=19409896011&ref_=ab_bps_moo_acq_learn) | 6 months for FREE | From $499/year with Amazon Business Prime |
 | [Reamaze](https://startup.deals/) | 4 Months Free | $29 one-time to access all Startup Deals discounts |
 | [ReferralCandy](https://startup.deals/) | $100 off | $29 one-time to access all Startup Deals discounts |
@@ -312,6 +315,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Scalingo](https://www.joinsecret.com/offers) | €1,000 credit | First deal free, then 99€/year or invite friends |
 | [Science Exchange](https://brex.com/rewards/) | 15% discount on Enterprise License | Free for Brex customers |
 | [Scrapingbee](https://www.joinsecret.com/offers) | 30% off on any plan for 12 months | First deal free, then 99€/year or invite friends |
+| [Secret](https://www.joinsecret.com/?via=collin) | $149/month | Access to hundreds of deals, many of which listed here | 
 | [Seekwell](https://segment.com/industry/startups/) | 3 months free, 90% off for next 9 months | Free for approved Segment users |
 | [Seeqle](https://www.joinsecret.com/offers) | 6 months free on Sprint plan | First deal free, then 99€/year or invite friends |
 | [Segment](https://brex.com/rewards/) | Free 12 month Team Plan for early stage startups, 15% off for everyone else | Free for Brex customers |
