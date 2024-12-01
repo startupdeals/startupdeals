@@ -85,6 +85,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Clerky](https://segment.com/industry/startups/) | "We've put together a special deal just for Segment Startup Program companies – our Company Lifetime Package for only $699. |
 | [Clever Cloud](https://www.joinsecret.com/offers) | €1,000 credit | First deal free, then 99€/year or invite friends |
 | [ClickUp](https://www.joinsecret.com/offers) | 30% lifetime discount | First deal free, then 99€/year or invite friends |
+| [Cloudfleet](https://cloudfleet.ai) | $10,000 credit | Credits can be used toward Cloudfleet services, including cluster management fees, training and enablement, and professional services. |
 | [CloudImage](https://www.joinsecret.com/offers) | 12 months free on Startup plan | First deal free, then 99€/year or invite friends |
 | [Cloudtalk](https://www.joinsecret.com/offers) | 6 months free on Expert plan for 5 users | First deal free, then 99€/year or invite friends |
 | [Cloudways](https://www.joinsecret.com/offers) | 30% off for 3 months | First deal free, then 99€/year or invite friends |
