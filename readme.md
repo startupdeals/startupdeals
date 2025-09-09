@@ -418,3 +418,4 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Zendesk](https://stripe.com/en-de/corporate-card) | $436 in credits per month for the first year | Free for Stripe Corporate Credit card users |
 | [Zentail](https://brex.com/rewards/) | $3,000 off annual Zentail contract | Free for Brex customers |
 | [Zoom](https://brex.com/rewards/) | 20% discount on annual subscription | Free for Brex customers |
+| [AI Agent](https://www.f6s.com/company-deals/aiagent.surf/get-30-off-on-all-plans-16240) | 30% off on paid plans | For F6S members |
