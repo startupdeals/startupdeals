@@ -10,6 +10,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [24sessions - Sales Demos](https://startup.deals/) | 50% off 3 months! No strings attached. | $29 one-time to access all Startup Deals discounts |
 | [99tests](https://startup.deals/) | One Month of Testing with 10 Testers | $29 one-time to access all Startup Deals discounts |
 | [A Small Orange](https://startup.deals/) | Hosting + .com for $40 | $29 one-time to access all Startup Deals discounts |
+| [A Browser](https://aibrowser.surf/) | 30% off | Use code PH30 to get 30% off on all plans |
 | [Achieved](https://www.joinsecret.com/offers) | 6 months free | First deal free, then 99€/year or invite friends |
 | [ActiveCampaign](https://segment.com/industry/startups/) | Get a free ActiveCampaign Professional Plan for 12-months | Free for approved Segment users |
 | [ActiveTrail](https://startup.deals/) | 6 months of free usage | $29 one-time to access all Startup Deals discounts |
