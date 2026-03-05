@@ -93,6 +93,7 @@ A directory of high quality startup deals, with terms, conditions and source
 | [ColdCRM](https://www.joinsecret.com/offers) | €40 discount on the €129/month plan for 6 months | First deal free, then 99€/year or invite friends |
 | [CometChat](https://startup.deals/) | 10% off | $29 one-time to access all Startup Deals discounts |
 | [Commando.io](https://www.userlike.com/en/blog/startup-deals) | 15% off any plan for life | Free |
+| [ConfigCat](https://configcat.com/startup-program/) | 50% off Pro or Smart annual plans in Year 1 + 25% off in Year 2 | Available for eligible early-stage startups via the ConfigCat Startup Program |
 | [Conflux](https://startup.deals/) | 20% off lifetime | $29 one-time to access all Startup Deals discounts |
 | [ConvertCalculator](https://startup.deals/) | 3 months free | $29 one-time to access all Startup Deals discounts |
 | [ConvertKit](https://startup.deals/) | One month free | $29 one-time to access all Startup Deals discounts |
