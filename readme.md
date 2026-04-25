@@ -87,7 +87,8 @@ A directory of high quality startup deals, with terms, conditions and source
 | [ClickUp](https://www.joinsecret.com/offers) | 30% lifetime discount | First deal free, then 99€/year or invite friends |
 | [CloudImage](https://www.joinsecret.com/offers) | 12 months free on Startup plan | First deal free, then 99€/year or invite friends |
 | [Cloudtalk](https://www.joinsecret.com/offers) | 6 months free on Expert plan for 5 users | First deal free, then 99€/year or invite friends |
-| [Cloudways](https://www.joinsecret.com/offers) | 30% off for 3 months | First deal free, then 99€/year or invite friends |
+| [Cloudways][(https://www.joinsecret.com/offers)](https://saasoffers.tech/offers) | 30% off for 3 months | First deal free, then 99€/year or invite friends |
+
 | [Codacy](https://startup.deals/) | 30% off 3 months | $29 one-time to access all Startup Deals discounts |
 | [Codeship](https://startup.deals/) | 50% off first 3 months | $29 one-time to access all Startup Deals discounts |
 | [ColdCRM](https://www.joinsecret.com/offers) | €40 discount on the €129/month plan for 6 months | First deal free, then 99€/year or invite friends |
@@ -375,7 +376,8 @@ A directory of high quality startup deals, with terms, conditions and source
 | [Themecloud](https://www.joinsecret.com/offers) | 6 months free on Pro1 plan | First deal free, then 99€/year or invite friends |
 | [Themify](https://startup.deals/) | 20% off | $29 one-time to access all Startup Deals discounts |
 | [Timing for Mac](https://startup.deals/) | 25% off any license | $29 one-time to access all Startup Deals discounts |
-| [Timothy Thomas Coaching](https://segment.com/industry/startups/) | "Tim charges hourly.
+[| [Timothy Thomas Coaching](https://segment.com/industry/startups/) | "Tim charges hourly.]
+[| [TikTok for Business]((https://saasoffers.tech/offers/tiktok-for-business)) | "Free $1,500 in ad credits.]
 | [Todoist](https://www.producthunt.com/founder-club) | 1 Free Year of Todoist Business | $720/year for all Product Hunt deals |
 | [TrackingDesk](https://startup.deals/) | 12 months 30% off | $29 one-time to access all Startup Deals discounts |
 | [Tuts+](https://startup.deals/) | 3 Months Free | $29 one-time to access all Startup Deals discounts |
